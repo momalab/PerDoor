@@ -14,12 +14,12 @@ source perdoor/bin/activate
 pip install -r requirements.txt
 ```
 ## Instructions
-PerDoor implementation for unprotected FedAvg Aggregation
+PerDoor implementation for unprotected FedAvg Aggregation.
 ```
 python3 perdoor_fedavg.py --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
 ```
 
-PerDoor implementation for Robust Aggregation. Use `--method=krum` for KRM Aggregation and `--method=foolsgold` for FoolsGold Aggregation
+PerDoor implementation for Robust Aggregation. Use `--method=krum` for _KRUM_ Aggregation and `--method=foolsgold` for _FoolsGold_ Aggregation.
 ```
 python3 perdoor_defense.py --method=foolsgold --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
 ```
