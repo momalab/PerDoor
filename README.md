@@ -23,10 +23,10 @@ PerDoor implementation for Robust Aggregation. Use `--method=krum` for KRM Aggre
 ```
 python3 perdoor_defense.py --method=foolsgold --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
 ```
-Details of all the parameters are discussed in the paper
+The paper describing PerDoor is available on [arXiv](https://arxiv.org/abs/2205.13523). Details of all the parameters are discussed in the paper.
 
 ## Cite Us
-The paper describing PerDoor is available on [arXiv](https://arxiv.org/abs/2205.13523). If you find our work interesting and use it in your research, please cite our paper describing:
+If you find our work interesting and use it in your research, please cite our paper describing:
 
 Manaar Alam, Esha Sarkar, and Michail Maniatakos, "_PerDoor: Persistent Non-Uniform Backdoors in Federated Learning using Adversarial Perturbations_", arXiv:2205.13523, 2022.
 
