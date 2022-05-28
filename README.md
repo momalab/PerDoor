@@ -35,3 +35,9 @@ Manaar Alam, Esha Sarkar, and Michail Maniatakos, "_PerDoor: Persistent Non-Unif
 ```
 ## Contact Us
 For more information or help with the setup, please contact Manaar Alam at alam.manaar@nyu.edu
+
+This software is under GPLv3 license
+```
+Copyright &copy 2022 NYUAD, MoMA lab
+https://wp.nyu.edu/momalab/
+```
