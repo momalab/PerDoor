@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Instructions
 The paper describing PerDoor is available on [arXiv](https://arxiv.org/abs/2205.13523). Please refer to the paper for details of all hyperparameters.
 
-* PerDoor implementation for unprotected FedAvg Aggregation.
+* PerDoor implementation for unprotected FedAvg[[1]](#1) Aggregation.
 ```
 python3 perdoor_fedavg.py --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
 ```
@@ -48,3 +48,5 @@ Manaar Alam, Esha Sarkar, and Michail Maniatakos, "_PerDoor: Persistent Non-Unif
 ```
 ## Contact Us
 For more information or help with the setup, please contact Manaar Alam at alam.manaar@nyu.edu
+
+## References
