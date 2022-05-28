@@ -14,8 +14,13 @@ source perdoor/bin/activate
 pip install -r requirements.txt
 ```
 ## Instructions
+```
+python3 perdoor_fedavg.py --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
+```
 
-
+```
+python3 perdoor_defense.py --method=foolsgold --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
+```
 ## Cite Us
 The paper describing PerDoor is available on [arXiv](https://arxiv.org/abs/2205.13523). If you find our work interesting and use it in your research, please cite our paper describing:
 
