@@ -48,7 +48,7 @@ Manaar Alam, Esha Sarkar, and Michail Maniatakos, "_PerDoor: Persistent Non-Unif
 }
 ```
 ## Contact Us
-For more information or help with the setup, please contact Manaar Alam at alam.manaar@nyu.edu
+For more information or help with the setup, please contact Manaar Alam at: alam.manaar@nyu.edu
 
 ## References
 <a id="1">[1]</a> Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Agüera y Arcas, "_Communication-Efficient Learning of Deep Networks from Decentralized Data_", AISTATS 2017.
