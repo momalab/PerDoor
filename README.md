@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Instructions
 The paper describing PerDoor is available on [arXiv](https://arxiv.org/abs/2205.13523). Please refer to the paper for details of all hyperparameters.
 
-* PerDoor implementation for unprotected FedAvg Aggregation [1][1].
+* PerDoor implementation for unprotected FedAvg Aggregation [1][].
 ```
 python3 perdoor_fedavg.py --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
 ```
@@ -50,7 +50,7 @@ Manaar Alam, Esha Sarkar, and Michail Maniatakos, "_PerDoor: Persistent Non-Unif
 For more information or help with the setup, please contact Manaar Alam at alam.manaar@nyu.edu
 
 ## References
-[1]: <a id="1"></a> Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Agüera y Arcas, "_Communication-Efficient Learning of Deep Networks from Decentralized Data_", AISTATS 2017.
+[1]: Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Agüera y Arcas, "_Communication-Efficient Learning of Deep Networks from Decentralized Data_", AISTATS 2017.
 
 2. <a id="2"></a> Peva Blanchard, El Mahdi El Mhamdi, Rachid Guerraoui, and Julien Stainer, "_Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent_", NeurIPS 2017.
 
