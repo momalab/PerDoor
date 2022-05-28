@@ -24,7 +24,7 @@ python3 perdoor_fedavg.py --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps
 
 * PerDoor implementation for Robust Aggregation. Use `--method=krum` for _KRUM_ Aggregation [[2]](#2) and `--method=foolsgold` for _FoolsGold_ Aggregation [[3]](#3).
 ```
-python3 perdoor_defense.py --method=foolsgold --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
+python3 perdoor_defense.py --method=<method> --analysis_window=30 --t_delta=1e-3 --delta=1e-5 --eps=0.1
 ```
 
 ## Cite Us
