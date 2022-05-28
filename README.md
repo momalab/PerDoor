@@ -38,6 +38,6 @@ For more information or help with the setup, please contact Manaar Alam at alam.
 
 This software is under GPLv3 license
 ```
-Copyright &copy; 2022 NYUAD, MoMA lab
+Copyright (C) 2022 NYUAD, MoMA lab
 https://wp.nyu.edu/momalab/
 ```
