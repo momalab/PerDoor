@@ -1,6 +1,7 @@
 # PerDoor: Persistent Non-Uniform Backdoors in Federated Learning using Adversarial Perturbations
 
 ## Overview
+PerDoor is a persistent-by-construction backdoor injection technique in a Federated Learning (FL) framework. PerDoor uses adversarial perturbation and targets parameters of the centralized FL model that deviate less in successive FL rounds and contribute the least to the main task accuracy for injecting backdoors. This repository presents codes to validate PerDoor in an image classification scenario using the CIFAR-10 dataset and VGG11 architecture.
 
 ## Requirements
 - python 3.8.10
