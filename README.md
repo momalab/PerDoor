@@ -51,7 +51,7 @@ For more information or help with the setup, please contact Manaar Alam at alam.
 
 ## References
 <a id="1">[1]</a> 
-Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Ag\H{u}era y Arcas, "_Communication-Efficient Learning of Deep Networks from Decentralized Data_", AISTATS 2017.
+Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Agüera y Arcas, "_Communication-Efficient Learning of Deep Networks from Decentralized Data_", AISTATS 2017.
 
 <a id="2">[2]</a> 
 Peva Blanchard, El Mahdi El Mhamdi, Rachid Guerraoui, and Julien Stainer, "_Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent_", NeurIPS 2017.
