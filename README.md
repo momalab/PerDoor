@@ -50,3 +50,11 @@ Manaar Alam, Esha Sarkar, and Michail Maniatakos, "_PerDoor: Persistent Non-Unif
 For more information or help with the setup, please contact Manaar Alam at alam.manaar@nyu.edu
 
 ## References
+<a id="1">[1]</a> 
+Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Ag{\"{u}}era y Arcas, "Communication-Efficient Learning of Deep Networks from Decentralized Data", AISTATS 2017.
+
+<a id="2">[2]</a> 
+Peva Blanchard, El Mahdi El Mhamdi, Rachid Guerraoui, and Julien Stainer, "Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent", NeurIPS 2017.
+
+<a id="3">[3]</a> 
+Clement Fung, Chris J. M. Yoon, and Ivan Beschastnikh, "The Limitations of Federated Learning in Sybil Settings", RAID 2020.
